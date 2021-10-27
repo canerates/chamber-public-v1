@@ -23,6 +23,16 @@
 
 <p align="row">
   <p align="center">
+    <img src= "chamber-launchscreen.png" width="250" >
+    <img src= "chamber-measuremenu.png" width="250" >
+    <img src= "chamber-texturemenu.png" width="250" >
+    <img src= "chamber-addmenu.png" width="250" >
+    <img src= "chamber-settingsmenu.png" width="250" >
+  </p>
+</p>
+
+<p align="row">
+  <p align="center">
     <img src= "https://media.giphy.com/media/VA7HFeZHasH9fB0Ihq/giphy.gif" width="200" >
     <img src= "https://media.giphy.com/media/LTjtG3deSPlDBSJEH3/giphy.gif" width="200" >
   </p>
