@@ -33,7 +33,7 @@
 
 <p align="row">
   <p align="center">
-    <img src= "https://media.giphy.com/media/LTjtG3deSPlDBSJEH3/giphy.gif" width="200" >
+    <img src= "chamber.gif" width="300" >
   </p>
 </p>
 
