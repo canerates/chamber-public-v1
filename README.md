@@ -8,7 +8,10 @@
     <img src="chamber-logo.png" alt="Logo" width="80" height="80">
   </a>
   <p align="center">
-    Chamber Interior Design iOS Augmented Reality Application designed for NTUT MSc Thesis. Application is developed for interior design purpose for decision guide in real time.
+    Chamber Interior Design iOS Augmented Reality Application designed for NTUT MSc Thesis. 
+  </p>
+  <p align="center">
+    Application is developed for interior design purpose for decision guide in real time.
   </p>
   <p align="center">
     3D Room Modelling | Texture Import & Alignment | Object Import & Manipulation
