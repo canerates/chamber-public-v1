@@ -25,10 +25,19 @@
   <p align="center">
     <img src= "chamber-measuremenu.png" width="200" >
     <img src= "chamber-texturemenu.png" width="200" >
-    <img src= "chamber-addmenu.png" width="200" >
-    <img src= "chamber-settingsmenu.png" width="200" >
+    
   </p>
 </p>
+
+<p align="row">
+  <p align="center">
+    <img src= "chamber-addmenu.png" width="200" >
+    <img src= "chamber-settingsmenu.png" width="200" >
+    
+  </p>
+</p>
+
+
 
 <p align="row">
   <p align="center">
