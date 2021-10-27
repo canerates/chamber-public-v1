@@ -53,11 +53,11 @@
 
 ## Features
 
-- [✓] Line Measurement
-- [✓] 2D Horizontal & Vertical Plane Set
-- [✓] 3D Space Set
-- [✓] Texture Import & Alignment
-- [✓] Object and Furniture Import & Manipulation
+- [] Line Measurement
+- [] 2D Horizontal & Vertical Plane Set
+- [] 3D Space Set
+- [] Texture Import & Alignment
+- [] Object and Furniture Import & Manipulation
 
 ## Meta
 
