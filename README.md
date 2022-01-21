@@ -47,7 +47,7 @@
 
 <p align="row">
   <p align="center">
-    <img src= "chamber-landscape.png" width="500" >
+    <img src= "chamber-landscape.png" width="600" >
     
   </p>
 </p>
