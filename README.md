@@ -31,7 +31,7 @@
 
 <p align="row">
   <p align="center">
-    <img src= "chamber-addmenu.png" width="200" >
+    <img src= "chamber-addmenu2.png" width="200" >
     <img src= "chamber-settingsmenu.png" width="200" >
     
   </p>
