@@ -41,7 +41,9 @@
 
 <p align="row">
   <p align="center">
-    <img src= "chamber.gif" width="300" >
+    <img src= "room-layout2.gif" width="300" >
+    <img src= "texture-without-furnitures2.gif" width="300" >
+    <img src= "texture-with-furnitures2.gif" width="300" >
   </p>
 </p>
 
