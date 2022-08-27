@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/canerates/Chamber">
-    <img src="chamber-logo.png" alt="Logo" width="80" height="80">
+    <img src="chamber-logov2.png" alt="Logo" width="80" height="80">
   </a>
   <p align="center">
     Chamber Interior Design iOS Augmented Reality Application designed for NTUT MSc Thesis. 
