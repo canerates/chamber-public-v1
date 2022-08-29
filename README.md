@@ -79,7 +79,7 @@
 
 Caner Ates - cnrates@gmail.com
 
-[https://github.com/canerates/Chamber](https://github.com/canerates/Chamber)
+[https://chamberapp.canerates.com](https://chamberapp.canerates.com)
 
 [swift-image]:https://img.shields.io/badge/Swift-5.2-orange?logo=swift
 [swift-url]: https://swift.org/
